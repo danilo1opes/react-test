@@ -7,7 +7,6 @@ function Blog() {
   const [content, setContent] = useState("");
 
   useEffect(() => {
-    // Fetch and set markdown content
     fetch(TextBlog)
       .then((response) => response.text())
       .then((text) => {
@@ -25,7 +24,7 @@ function Blog() {
             text: "Compartilhe esse blog!",
             url: window.location.href,
           })
-          .then(() => console.log("Compartilhado com sucesso!"))
+          .then(() => alert("Compartilhado com sucesso!"))
           .catch((error) => console.error("Erro ao compartilhar:", error));
         } else {
           alert("A API de Compartilhamento não é suportada neste navegador.");
