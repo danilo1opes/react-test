@@ -7,12 +7,12 @@
     <span>João Victor</span>
   </div>
   <div class="IconDiv">
-    <a href="#"><img src="../../public/image/share.svg" alt="Ícone Compartilhar" /></a>
+    <a href="#" id="shareButton"><img src="../../public/image/share.svg" alt="Ícone Compartilhar" /></a>
   </div>
 </div>
 <hr>
 
-![Descrição da Imagem](https://newsletternyx.netlify.app/paginas/img/cr7.webp)
+![Descrição da Imagem](https://educ21.com.br/wp-content/uploads/2023/10/educacao-aprimorando-o-conceito-de-aprendizado-menina-aprendendo-por-ar-digital-permitindo-educacao-interativa-e-envolvente-tecnologia-de-ia-generativa.jpg)
 
 Nos últimos anos, o sistema educacional tem vivenciado uma verdadeira revolução digital, especialmente no que diz respeito ao processo de matrícula de alunos. O que antes era um procedimento burocrático e demorado, envolvendo longas filas e grandes volumes de papel, agora se transforma em um processo rápido, ágil e eficiente. A crescente adoção de plataformas de matrícula online nas escolas de todo o Brasil tem transformado a forma como pais, responsáveis e instituições lidam com esse processo. E os números mostram que essa mudança veio para ficar.
 
