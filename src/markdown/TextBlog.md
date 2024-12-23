@@ -10,7 +10,7 @@
     <a href="#" id="shareButton"><img class="icon" src="../../public/image/TablerBrandStackshare.png" alt="Ícone Compartilhar" /></a>
     <img src="../../public/image/share.svg" alt="Ícone Compartilhar" />
     <img class="icon" src="../../public/image/MdiLightShareVariant.png" alt="Ícone Compartilhar" />
-    <img class="icon" src="../../public/image/MingcuteShareForwardFill.png" alt="Ícone Compartilhar" />
+    <img class="icon" src="https://i.pinimg.com/736x/8e/e9/89/8ee989250f90578d44d8888286aaa2c0.jpg" alt="Ícone Compartilhar" />
   </div>
 </div>
 <hr>
