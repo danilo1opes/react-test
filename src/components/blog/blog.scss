@@ -7,7 +7,7 @@
   grid-column: 2;
   width: 100%;
   color: #d4d4d4;
-  font-size: 21px;
+  font-size: 1.1rem;
 }
 
 hr {
@@ -49,6 +49,11 @@ hr {
   a {
     display: flex;
     align-items: center;
+  }
+
+  .icon {
+    width: 30px;
+    height: 30px;
   }
 }
 
