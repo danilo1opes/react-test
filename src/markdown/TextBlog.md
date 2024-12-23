@@ -7,7 +7,10 @@
     <span>João Victor</span>
   </div>
   <div class="IconDiv">
-    <a href="#" id="shareButton"><img src="../../public/image/share.svg" alt="Ícone Compartilhar" /></a>
+    <a href="#" id="shareButton"><img class="icon" src="../../public/image/TablerBrandStackshare.png" alt="Ícone Compartilhar" /></a>
+    <img src="../../public/image/share.svg" alt="Ícone Compartilhar" />
+    <img class="icon" src="../../public/image/MdiLightShareVariant.png" alt="Ícone Compartilhar" />
+    <img class="icon" src="../../public/image/MingcuteShareForwardFill.png" alt="Ícone Compartilhar" />
   </div>
 </div>
 <hr>
